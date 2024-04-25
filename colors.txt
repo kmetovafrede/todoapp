@@ -1,0 +1,5 @@
+#E7DDFF - lightest purple
+#D1C1F2 - light purple
+#B9A5E2 - pastel purple
+#9279BA - darker purple
+#745E96 - darkest purple
